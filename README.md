@@ -1,2 +1,2 @@
-# template-slurm-gpu-
+# template-slurm-gpu
 template slurm gpu
